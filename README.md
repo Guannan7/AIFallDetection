@@ -574,7 +574,6 @@ data: [DONE]
 │       ├── pose-engine.ts           # 姿态估计引擎（CDN 动态加载 TF.js）
 │       └── utils.ts                 # 工具函数
 ├── .env.local                       # 环境变量（API Keys）
-├── .coze                            # 项目配置文件
 ├── AGENTS.md                        # 项目规范文件
 ├── DESIGN.md                        # 设计规范文件
 ├── next.config.ts                   # Next.js 配置
